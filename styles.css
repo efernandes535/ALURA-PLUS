@@ -157,7 +157,7 @@ body {
 @media screen and (max-width: 768px) {
     .container {
         display: block;
-        background-color: none;
+        background-image: none;
     }
 
     .container__imagem {
